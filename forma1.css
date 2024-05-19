@@ -1,6 +1,35 @@
-body{
-    background-image: ;
+body{ font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f4f4;
+   
 }
 h1{
     text-align: center;
+    background-color: grey;
+    padding: 10px;
+    color: white;
+}
+div{
+    text-align: center;
+    background-color: bisque;
+    color: #ddd;
+  padding: 10px ;
+}
+section{
+    margin-bottom: 20px;
+}
+table{
+    width: 100%;
+    margin: 20px;
+}
+table, th, td{
+    border: 1px solid #ddd;
+
+}
+th, td{
+    padding: 10px;
+    text-align: center;
+
+}
+th{
+    background-color: white;
 }
