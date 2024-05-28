@@ -8,6 +8,7 @@ h1{
     padding: 10px;
     color: white;
 }
+
 div{
     text-align: center;
     background-color: bisque;
@@ -28,8 +29,9 @@ table, th, td{
 th, td{
     padding: 10px;
     text-align: center;
+    
 
 }
 th{
-    background-color: white;
+    background-color: whitesmoke;
 }
