@@ -1,5 +1,5 @@
 body{ font-family: Arial, Helvetica, sans-serif;
-    background-color: #f4f4f4;
+    background-color: black;
    
 }
 h1{
@@ -7,29 +7,29 @@ h1{
     background-color: grey;
     padding: 10px;
     color: white;
+    border-radius: 5px;
 }
 div{
     text-align: center;
-    background-color: bisque;
+    background-color: rgb(245, 236, 225);
     color: #ddd;
   padding: 10px ;
 }
-section{
-    margin-bottom: 20px;
-}
+
+
 table{
     width: 100%;
     margin: 20px;
+    
 }
 table, th, td{
-    border: 1px solid #ddd;
+    border: 1px solid black;
 
 }
 th, td{
     padding: 10px;
     text-align: center;
-
-}
+  }
 th{
     background-color: white;
 }
@@ -46,4 +46,12 @@ video{
         border: 5px solid beige;
         margin-left: auto;
         margin-right: auto;
-        display: block;    }
+        display: block;
+}
+p{
+    border: 2px solid gray;
+    background-color: lightgray;
+    box-shadow: 5px 5px 5px lightgray;
+    border-radius: 5px;
+    font-size: larger;
+}
