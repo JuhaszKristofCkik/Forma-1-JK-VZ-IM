@@ -19,6 +19,7 @@ div{
     background-color: rgb(245, 236, 225);
     color: #ddd;
   padding: 10px ;
+  font-size: larger;
 }
 
 
@@ -60,4 +61,4 @@ p{
     border-radius: 5px;
     font-size: larger;
 }
-   
+
