@@ -27,21 +27,17 @@ div{
 table{
     width: 100%;
     margin: 20px;
-    background-color: whitesmoke;
+    
 }
 table, th, td{
     border: 1px solid black;
+    background-color: whitesmoke;
 
 }
 th, td{
     padding: 10px;
     text-align: center;
-    
-
-}
-th{
-    background-color: whitesmoke;
-}
+  }
 
 
 video{
@@ -50,7 +46,8 @@ video{
     margin-left: auto;
     margin-right: auto;
     display: block;    }
-}
+   
+    
 p{
     border: 2px solid gray;
     background-color: lightgray;
