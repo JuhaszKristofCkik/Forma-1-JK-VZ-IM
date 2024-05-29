@@ -27,7 +27,7 @@ div{
 table{
     width: 100%;
     margin: 20px;
-    
+    background-color: whitesmoke;
 }
 table, th, td{
     border: 1px solid black;
@@ -36,18 +36,13 @@ table, th, td{
 th, td{
     padding: 10px;
     text-align: center;
-<<<<<<< HEAD
     
 
 }
 th{
     background-color: whitesmoke;
 }
-=======
-  }
-th{
-    background-color: white;
-}
+
 
 video{
     width: 40%;
@@ -55,13 +50,6 @@ video{
     margin-left: auto;
     margin-right: auto;
     display: block;    }
-   
-    video{
-        width: 40%;
-        border: 5px solid beige;
-        margin-left: auto;
-        margin-right: auto;
-        display: block;
 }
 p{
     border: 2px solid gray;
@@ -71,4 +59,3 @@ p{
     font-size: larger;
 }
 
->>>>>>> 635d2439796d87ab23410828299068cb217cb215
