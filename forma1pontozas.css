@@ -1,0 +1,21 @@
+h1{text-align: center;
+border: 2px solid rgb(253, 71, 71);
+color:white;
+background-color: rgb(253, 71, 71);
+border-radius: 5px;
+padding: 10px;
+
+}
+p{
+    text-align: justify;
+    font-size: larger;
+    border: 3px solid rgb(89, 149, 226);
+    box-shadow: 5px 5px 5px rgb(89, 149, 226) ;
+    border-radius: 5px;
+    background-color: lightgray;
+  
+
+}
+body{
+    background-color: rgb(114, 114, 114);
+}

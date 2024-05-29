@@ -17,10 +17,11 @@ h1{
 
 div{
     text-align: center;
-    background-color: rgb(245, 236, 225);
+    background-color:white;
     color: #ddd;
   padding: 10px ;
   font-size: larger;
+ 
 }
 
 
@@ -54,5 +55,6 @@ p{
     box-shadow: 5px 5px 5px lightgray;
     border-radius: 5px;
     font-size: larger;
+    text-align: justify;
 }
 
