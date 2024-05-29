@@ -14,6 +14,7 @@ h1{
     color: white;
     border-radius: 5px;
 }
+
 div{
     text-align: center;
     background-color: rgb(245, 236, 225);
@@ -35,6 +36,14 @@ table, th, td{
 th, td{
     padding: 10px;
     text-align: center;
+<<<<<<< HEAD
+    
+
+}
+th{
+    background-color: whitesmoke;
+}
+=======
   }
 th{
     background-color: white;
@@ -62,3 +71,4 @@ p{
     font-size: larger;
 }
 
+>>>>>>> 635d2439796d87ab23410828299068cb217cb215
