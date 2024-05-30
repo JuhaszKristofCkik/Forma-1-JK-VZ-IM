@@ -19,3 +19,9 @@ p{
 body{
     background-color: rgb(114, 114, 114);
 }
+#tiz{
+    width: 200px;
+}
+body{
+    background-color: gray;
+}
