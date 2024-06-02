@@ -3,6 +3,7 @@ border: 2px solid rgb(89, 149, 226);
 background-color: lightgray;
 border-radius: 5px;
 padding: 10px;
+color: rgb(6, 24, 139);
 
 }
 p{
@@ -12,6 +13,7 @@ p{
     box-shadow: 5px 5px 5px rgb(89, 149, 226) ;
     border-radius: 5px;
     background-color: lightgray;
+    color: rgb(6, 24, 139);
   
 
 }
