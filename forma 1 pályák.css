@@ -14,3 +14,8 @@ p{
 li{
     font-size: larger;
 }
+body{
+    background-color: rgb(239, 237, 237);
+}
+h1{text-align: center;
+}
